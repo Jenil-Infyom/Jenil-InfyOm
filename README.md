@@ -3,7 +3,7 @@
 
 <img align ="right" alt="developer" width="400" height="320" src="https://miro.medium.com/max/1000/1*XrEWAu1sgFkZ4IQtG3DMmg.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mraj555&label=Profile%20views&color=0e75b6&style=flat" alt="Jenil-Infyom" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Jenil-Infyom&label=Profile%20views&color=0e75b6&style=flat" alt="Jenil-Infyom" /> </p>
 
 - 🌱 I’m currently learning **Java, Python and Data Structure and Algorithm.**
 
